@@ -16,8 +16,6 @@ import java.util.List;
 
 import static org.junit.Assert.assertEquals;
 
-//@DataJpaTest
-//@AutoConfigureTestDatabase(replace = AutoConfigureTestDatabase.Replace.NONE)
 @SpringBootTest
 @RunWith(SpringRunner.class)
 public class TestDbo {
