@@ -1,6 +1,6 @@
 package com.kodillatask.library.domian;
 
-import com.sun.istack.NotNull;
+
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
